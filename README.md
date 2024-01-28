@@ -30,6 +30,9 @@ Using mutexes to ensure mutual exclusion.
 
 ## Getting Started
 
-### Clone the repository: git clone https://github.com/Elias-Belkheiri/Philosophers.git && cd Philosphers && cd Philo
-### Compile the program: make
-### Run the simulation: ./philo [number_of_philosophers] [time_to_die] [time_to_eat] [time_to_sleep]
+### Clone the repository:
+git clone https://github.com/Elias-Belkheiri/Philosophers.git && cd Philosphers && cd Philo
+### Compile the program:
+make
+### Run the simulation: 
+./philo [number_of_philosophers] [time_to_die] [time_to_eat] [time_to_sleep]
